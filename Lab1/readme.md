@@ -1,2 +1,2 @@
-# Lab 1 - Python and Quantopian introduction
+# Lab 1 - Python introduction
 Here you can find the first laboratory of the subject
